@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Apoorv Yadav</h1>
 <h3 align="left">A enthusiastic software developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 
 - 🔭 I’m currently working on **Career Counseling Gateway**
